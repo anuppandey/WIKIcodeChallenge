@@ -1,1 +1,2 @@
 I assumed that the content from all pages that is to be parsed is the content in paragraphs. So the links followed from the primar page are also only that were within the main content body (P tags).
+Also, ltb_countries was added after the upload of the mysQL DB to Github. The mySQL file will be updated soon 
